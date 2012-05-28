@@ -2,7 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Simple Latex-Table Generator</title>
+<title>Simple Latex-Table generator</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <style type="text/css">
     table { width:100%; }
@@ -97,4 +97,3 @@
 
 </body>
 </html>
-
